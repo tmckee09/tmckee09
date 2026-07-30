@@ -16,9 +16,9 @@
 > Founder and full-stack product builder.<br />
 > Building useful internet products, launch infrastructure, and durable discovery systems.
 
-I build products end to end - strategy, interface, application logic, data models,<br />
+I build products end to end: strategy, interface, application logic, data models,<br />
 payments, deployment, analytics, and the feedback loops that keep a product improving.<br />
-Right now that is [Crowdstax](https://www.crowdstax.com) — a place for founders and builders<br />
+Right now that is [Crowdstax](https://www.crowdstax.com) - a place for founders and builders<br />
 to launch products, collect feedback, earn reviews, and keep building in public.
 
 <img src="./hd-stack.svg" width="620" alt="stack" />
