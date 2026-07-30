@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii.svg?v=6acba04" width="390" alt="Taylor McKee ASCII portrait" />
+<img src="./ascii.svg?v=6acba04" width="380" alt="Taylor McKee ASCII portrait" />
 
 <img src="./stats.svg" width="620" alt="GitHub contributions in the last year" />
 
