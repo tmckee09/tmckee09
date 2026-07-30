@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii.svg" width="460" alt="Taylor McKee ASCII portrait" />
+<img src="./ascii.svg" width="420" alt="Taylor McKee ASCII portrait" />
 
 <img src="./stats.svg" width="620" alt="GitHub contributions in the last year" />
 
@@ -55,7 +55,7 @@ discoverable without treating launch day as the finish line.
 
 Every graphic here is generated and committed to this repository — no third-party profile widgets.<br />
 `ascii.svg` is a local headshot transformed into a character portrait by<br />
-[`scripts/make_portrait.cjs`](scripts/make_portrait.cjs). The contribution graphics and headings are<br />
+[`scripts/make_portrait.py`](scripts/make_portrait.py). The contribution graphics and headings are<br />
 drawn from GitHub's API by [a scheduled workflow](.github/workflows/stats.yml), once each day.<br />
 
 The SVGs use inline fonts and SMIL animation because GitHub removes page scripts and custom CSS.<br />
